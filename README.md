@@ -5,7 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 # Setting Up a Project
 
 Install the Angular CLI globally:
-npm install -g @angular/cli
+```npm install -g @angular/cli```
 
 Create workspace:
 ng new [PROJECT NAME]
